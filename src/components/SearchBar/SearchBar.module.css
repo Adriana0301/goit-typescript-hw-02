@@ -1,0 +1,31 @@
+.SearchBarHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.SearchBarForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+
+}
+
+.SearchBarInput {
+    border: 1px solid rgba(251, 251, 251, 0.2);
+border-radius: 12px;
+padding: 18px 18px 18px 18px;
+width: 472px;
+height: 10px;
+border: none;
+
+}
+
+.SearchBarBtn {
+    display: block;
+    width: 80px;
+    padding: 12px 18px;
+    border-radius: 15px;
+}
